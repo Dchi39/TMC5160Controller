@@ -29,7 +29,7 @@ TMC5160Controller/
 ├──
 │ └── main.cpp
 
----
+
 ```
 ## 🧠 Example Usage
 
@@ -64,14 +64,14 @@ void loop() {
         i2cio.setOutput(10, LOW);
     }
     delay(100);
-}```
----
-
+}
+```
 ## 🧰Dependencies
 
 Install these libraries in your Arduino/PlatformIO environment:
 - [TMCStepper](https://github.com/teemuatlut/TMCStepper)
 - [Arduino Core for ESP32](https://github.com/espressif/arduino-esp32)
+
 
 
 
