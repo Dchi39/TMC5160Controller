@@ -1,6 +1,6 @@
 # TMC5160Controller + I2C I/O Expander for ESP32-S3
 
-This project provides an easy-to-use C++ Arduino library for controlling up to **4 TMC5160 stepper motor drivers via SPI** along with **extended I/O control via I2C expanders** such as MCP23017 or PCF8574.
+This project provides an easy-to-use C++ Arduino library for controlling up to **4 TMC5160 stepper motor drivers via SPI** along with **extended I/O control via I2C expanders**
 
 ---
 
@@ -71,6 +71,7 @@ void loop() {
 Install these libraries in your Arduino/PlatformIO environment:
 - [TMCStepper](https://github.com/teemuatlut/TMCStepper)
 - [Arduino Core for ESP32](https://github.com/espressif/arduino-esp32)
+
 
 
 
